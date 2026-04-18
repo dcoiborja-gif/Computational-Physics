@@ -1,0 +1,10 @@
+# git status (ver si está siendo trackeado por git)
+# git add (que git lo traquee)
+# git commit -m "cambios" (pasar los cambios a git)
+# git log (ver historial de la rama)
+# git push origin <branch> (subir cambios a una rama de git)
+# git pull origin <branch> (bajarme cambios de una rama de git)´
+# git branch (ver la rama en la que estoy)
+# git checkout <branch> (cambia de rama)
+# git checkout -b <branch> (crear rama)
+# git clone (descargar proyecto)
